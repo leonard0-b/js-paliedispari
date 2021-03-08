@@ -12,8 +12,7 @@ console.log(parolaReverse);
 var parolaRevJoin = join(parola);
 console.log(parolaRevJoin);
 
-console.log(reverse(parola));
-
+console.log(join(parola));
 
 // if (reverse(parola) === parolaRevJoin) {
 //   alert("La parola è palindroma");
